@@ -29,6 +29,7 @@
 
 @media (max-width: 950px) {
     .boats-list {
+        display: flex;
         flex-direction: column;
     }
     .boat img {
